@@ -1,6 +1,7 @@
 # zookeeper-sample
 学习zookeeper的心路历程
 
+![image.png](http://note.youdao.com/yws/res/2447/WEBRESOURCEa31f37b9a53ea5c2bbcaaa828d395361)
 
 ### 1、 为什么要用zookeeper？
 
